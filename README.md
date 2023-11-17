@@ -31,4 +31,6 @@ Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 ### Virtual Box
 VirtualBox é um software de virtualização de código aberto desenvolvido pela Oracle, que permite criar e executar máquinas virtuais em um computador físico.
 
+Segue link abaixo para fazer download do Virtual Box
+
 <a href="https://www.virtualbox.org/wiki/Downloads">Virtual Box</a>
