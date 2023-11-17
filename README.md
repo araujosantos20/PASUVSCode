@@ -3,6 +3,7 @@
 ## Veremos abaixo as ferramentas utilizadas
 
 <img src=logoubuntu.png width=100 height=100><img src=virtualbox.png width=100 height=100><img src=vscode.png width=80 height=80><img src=git.png width=80 height=80>
+
 <img src=cockpit.png width=100 height=100><img src=ssh.png width=100 height=100><img src=linguagemc.png width=100 height=100>
 
 
