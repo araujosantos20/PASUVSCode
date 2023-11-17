@@ -26,3 +26,9 @@ Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
  Para fazer o download click no link abaixo
 
 <a href="https://ubuntu.com/download/server">Ubuntu Server 22.04 </a>
+
+
+### Virtual Box
+VirtualBox é um software de virtualização de código aberto desenvolvido pela Oracle, que permite criar e executar máquinas virtuais em um computador físico.
+
+<a href="https://www.virtualbox.org/wiki/Downloads">Virtual Box</a>
